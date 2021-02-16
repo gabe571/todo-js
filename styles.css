@@ -3,6 +3,13 @@
     color: teal;
 }
 
-.todoform {
+.tl {
+    text-align: center;
+    margin-left: 250px;
+    width:200px;
+    outline: none;
+}
+
+.ul {
     text-align: center;
 }
